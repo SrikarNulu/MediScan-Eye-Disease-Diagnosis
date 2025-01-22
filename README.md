@@ -1,4 +1,4 @@
-# MediScan: AI-Powered Medical Image Analysis for Disease Diagnosis
+# MediScan-Eye-Disease-Diagnosis
 
 ## **Purpose**
 MediScan is an AI-powered system aimed at simplifying medical image analysis. It focuses on detecting eye diseases, enabling early diagnosis, and providing clinical decision support to improve patient care and efficiency in healthcare workflows.
@@ -39,8 +39,8 @@ Make sure you have the following setup:
 ## **Installation**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/MediScan-Infosys-Project.git
-   cd MediScan-Infosys-Project
+   git clone https://github.com/yourusername/MediScan-Eye-Disease-Diagnosis.git
+   cd MediScan-Eye-Disease-Diagnosis
    ```
 
 2. Install the required libraries:
