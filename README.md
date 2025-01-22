@@ -37,7 +37,7 @@ Make sure you have the following setup:
 ---
 
 ## **Dataset**
-You can download the dataset used for this project from the following address:
+You can download the dataset used for this project from the following link:
 [Download Dataset](https://www.kaggle.com/datasets/gunavenkatdoddi/eye-diseases-classification)
 
 ---
